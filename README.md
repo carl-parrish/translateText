@@ -1,2 +1,0 @@
-# translateText
-Created with CodeSandbox
